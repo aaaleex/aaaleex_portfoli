@@ -26,13 +26,9 @@ Me considero una persona responsable, motivada y con alta capacidad de adaptaci�
 
 | Proyecto | Descripción | Tecnologías | Estado |
 | :--- | :--- | :--- | :--- |
-| **[Travel Dashboard Web](https://github.com/LSG-markup-lang/0373-dam-pr2-aaaleex)** | Descripción breve y técnica de la funcionalidad principal del repositorio. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-
-
-| ![Finalizado](https://img.shields.io/badge/-Finalizado-brightgreen) |
-| **Nombre del Proyecto 2** | Descripción breve y técnica de la funcionalidad principal del repositorio. | ![Java](https://img.shields.io/badge/-Java-ED8B00) | ![En_curso](https://img.shields.io/badge/-En_curso-blue) |
-| **Nombre del Proyecto 3** | Descripción breve y técnica de la funcionalidad principal del repositorio. | ![JS](https://img.shields.io/badge/-JS-F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-E34F26) | ![Finalizado](https://img.shields.io/badge/-Finalizado-brightgreen) |
-
+| **[Travel Dashboard Web](https://github.com/LSG-markup-lang/0373-dam-pr2-aaaleex)** | Panel interactivo que permite seleccionar un destino para visualizar datos en tiempo real como clima, precipitaciones y conversión de moneda. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6) ![JS](https://img.shields.io/badge/-JS-F7DF1E) | ![Finalizado](https://img.shields.io/badge/-Finalizado-brightgreen) |
+| **Nombre del Proyecto 2** | Descripción técnica del desarrollo y su funcionalidad principal. | ![Java](https://img.shields.io/badge/-Java-ED8B00) | ![En_curso](https://img.shields.io/badge/-En_curso-blue) |
+| **Nombre del Proyecto 3** | Descripción técnica del desarrollo y su funcionalidad principal. | ![Python](https://img.shields.io/badge/-Python-3776AB) | ![Finalizado](https://img.shields.io/badge/-Finalizado-brightgreen) |
 ---
 
 ### Formación académica
