@@ -26,7 +26,7 @@ Me considero una persona responsable, motivada y con alta capacidad de adaptaci�
 
 | Proyecto | Descripción | Tecnologías | Estado |
 | :--- | :--- | :--- | :--- |
-| **Nombre del Proyecto 1** | Descripción breve y técnica de la funcionalidad principal del repositorio. | ![Python](https://img.shields.io/badge/-Python-3776AB) | ![Finalizado](https://img.shields.io/badge/-Finalizado-brightgreen) |
+| **[Travel Dashboard Web](https://github.com/LSG-markup-lang/0373-dam-pr2-aaaleex)** | Descripción breve y técnica de la funcionalidad principal del repositorio. | ![Python](https://img.shields.io/badge/-Python-3776AB) | ![Finalizado](https://img.shields.io/badge/-Finalizado-brightgreen) |
 | **Nombre del Proyecto 2** | Descripción breve y técnica de la funcionalidad principal del repositorio. | ![Java](https://img.shields.io/badge/-Java-ED8B00) | ![En_curso](https://img.shields.io/badge/-En_curso-blue) |
 | **Nombre del Proyecto 3** | Descripción breve y técnica de la funcionalidad principal del repositorio. | ![JS](https://img.shields.io/badge/-JS-F7DF1E) ![HTML](https://img.shields.io/badge/-HTML-E34F26) | ![Finalizado](https://img.shields.io/badge/-Finalizado-brightgreen) |
 
@@ -51,10 +51,3 @@ Me considero una persona responsable, motivada y con alta capacidad de adaptaci�
 *   **GitHub:** [github.com/alexangulovaldes-del](https://github.com/alexangulovaldes-del)
 *   **Ubicación:** Castelldefels, Barcelona.
 
-### Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| **Nombre del Proyecto 1** | Breve descripción de qué hace el proyecto y qué problema resuelve. | Python, SQLite |
-| **Nombre del Proyecto 2** | Explicación sencilla de la funcionalidad principal. | Java, Swing |
-| **Nombre del Proyecto 3** | Descripción del desarrollo o del objetivo del repositorio. | HTML, CSS |
