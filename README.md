@@ -20,15 +20,7 @@ Me considero una persona responsable, motivada y con alta capacidad de adaptaci�
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
----
 
-### Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías | Estado |
-| :--- | :--- | :--- | :--- |
-| **[Travel Dashboard Web](https://github.com/LSG-markup-lang/0373-dam-pr2-aaaleex)** | Panel interactivo que permite seleccionar un destino para visualizar datos en tiempo real como clima, precipitaciones y conversión de moneda. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6) ![JS](https://img.shields.io/badge/-JS-F7DF1E) | ![Finalizado](https://img.shields.io/badge/-Finalizado-brightgreen) |
-| **Nombre del Proyecto 2** | Descripción técnica del desarrollo y su funcionalidad principal. | ![Java](https://img.shields.io/badge/-Java-ED8B00) | ![En_curso](https://img.shields.io/badge/-En_curso-blue) |
-| **Nombre del Proyecto 3** | Descripción técnica del desarrollo y su funcionalidad principal. | ![Python](https://img.shields.io/badge/-Python-3776AB) | ![Finalizado](https://img.shields.io/badge/-Finalizado-brightgreen) |
 ---
 
 ### Formación académica
@@ -50,3 +42,12 @@ Me considero una persona responsable, motivada y con alta capacidad de adaptaci�
 *   **GitHub:** [github.com/alexangulovaldes-del](https://github.com/alexangulovaldes-del)
 *   **Ubicación:** Castelldefels, Barcelona.
 
+---
+
+### Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías | Estado |
+| :--- | :--- | :--- | :--- |
+| **[Travel Dashboard Web](https://github.com/LSG-markup-lang/0373-dam-pr2-aaaleex)** | Panel interactivo que permite seleccionar un destino para visualizar datos en tiempo real como clima, precipitaciones y conversión de moneda. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6) ![JS](https://img.shields.io/badge/-JS-F7DF1E) | ![Finalizado](https://img.shields.io/badge/-Finalizado-brightgreen) |
+| **Nombre del Proyecto 2** | Descripción técnica del desarrollo y su funcionalidad principal. | ![Java](https://img.shields.io/badge/-Java-ED8B00) | ![En_curso](https://img.shields.io/badge/-En_curso-blue) |
+| **Nombre del Proyecto 3** | Descripción técnica del desarrollo y su funcionalidad principal. | ![Python](https://img.shields.io/badge/-Python-3776AB) | ![Finalizado](https://img.shields.io/badge/-Finalizado-brightgreen) |
