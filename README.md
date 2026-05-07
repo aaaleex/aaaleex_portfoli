@@ -43,6 +43,7 @@ Me considero una persona responsable, motivada y con alta capacidad de adaptaci√
 ### Contacto
 *   **Email:** [alex.angulo.valdes@gmail.com](mailto:alex.angulo.valdes@gmail.com)
 *   **GitHub:** [github.com/alexangulovaldes-del](https://github.com/alexangulovaldes-del)
+*   **Linkedin:** [https://www.linkedin.com](https://www.linkedin.com/in/%C3%A0lex-angulo-vald%C3%A9s-a45094389/)
 *   **Ubicaci√≥n:** Castelldefels, Barcelona.
 
 ---
